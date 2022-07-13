@@ -3,6 +3,7 @@ weekly365
 # アプリケーション概要
 スケジュールを月間ではなく、週間で管理することができる。
 # URL
+https://git.heroku.com/weekly365.git
 # テスト用アカウント
 ・Basic認証ID：admin  
 ・Basic認証パスワード：0000  
@@ -20,6 +21,7 @@ weekly365
 # 洗い出した要件
 https://docs.google.com/spreadsheets/d/17fsauGOXzhldRjpya_Cg5tVAhKyL5sk_8UEtYzWfCNs/edit#gid=982722306
 # 実装した機能についての画像および説明
+実装中につき後日添付
 # 実装予定の機能
 ## 実装予定機能
 ・ユーザー管理機能  
@@ -34,4 +36,3 @@ https://docs.google.com/spreadsheets/d/17fsauGOXzhldRjpya_Cg5tVAhKyL5sk_8UEtYzWf
 [![Image from Gyazo](https://i.gyazo.com/bb0e9f891c643ddc234487dea392fd7d.png)](https://gyazo.com/bb0e9f891c643ddc234487dea392fd7d)
 # 開発環境
 Ruby on Rails
-# 工夫したポイント
